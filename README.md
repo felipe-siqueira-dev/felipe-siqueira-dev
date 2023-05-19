@@ -1,4 +1,5 @@
-### Olá, seja bem-vindo ao meu repositório. Eu sou o Felipe
+### Olá, seja bem-vindo ao meu repositório.
+### Eu sou o Felipe
 
 ##
 
@@ -18,8 +19,8 @@
 
   ##
           
-  <div>
-    <a href= "malito:felipe.mont.siqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/felipe-siqueira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+<div>
+ <a href= "mailto:felipe.mont.siqueira@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/felipe-siqueira-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
  
