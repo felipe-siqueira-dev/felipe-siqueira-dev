@@ -32,4 +32,5 @@
 <img align="center" alt="Felipe-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
           
 </div>
- 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=fernandesmelo&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="fernandesmelo" /> </p>
+<br>
